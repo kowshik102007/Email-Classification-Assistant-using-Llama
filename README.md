@@ -24,5 +24,3 @@ Large Language Models like Llama can understand natural language and categorize 
 - Prompt Engineering  
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
